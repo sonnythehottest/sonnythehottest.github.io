@@ -5,3 +5,11 @@
 # layout: home
 layout: default
 ---
+
+<ul>
+    {% for post in site.posts %}
+        <li>
+            <h3><a href="{{ post.url }}">{{ post.title }} {% if post.subtitle %}- {{ post.subtitle }} {% endif %} - {{ post.date | date_to_string }}</a></h3>
+        </li>
+    {% endfor %}
+</ul>
