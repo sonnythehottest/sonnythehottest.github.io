@@ -5,7 +5,9 @@ subtitle: "the story of interpretation and reinterpretation"
 ---
 
 # {{ page.title }}
-## {{ page.subtitle }}
+### {{ page.subtitle }}, {{ page.date | date_to_string }}
+
+---
 
 Have you ever known a man who blames a woman for giving false impression on him after giving chocolate on last valentine’s day? The man _thinks_ that the woman is interested in him because of the gift on valentine’s day. Have you ever been so excited after looking at a X% cashback promotion banner only then to come up disappointed after finding out that the amount is limited to certain threshold. These are examples of misinterpretation. In other words, I would say that this is an example of being fooled/lied by ourselves. Without understanding, we might never know how many times we are fooled by ourselves; which might be more than lies from other people. Interpretation and reinterpretation are common to everyday life. Understanding this might help us treat our own interpretation better to achieve better results in the future.
 
