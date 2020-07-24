@@ -5,15 +5,33 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Sonny Theo Tumbur
+### Brunswick • Melbourne, VIC 3056
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+***
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+#### Education
+ - MSc (Computer Science) @ **University of Melbourne**. WAM 81.429 (H1). 2019 - 2021 (expected).
+   - Research interest: Machine Learning on Systems (Learned Index), Causality.
+ - B.Eng @ **Bandung Institute of Technology**. GPA of 3.52/4.0.
 
+#### Experience
+  - Casual Tutor @ **Tutor LIM**.
+    - *COMP90054* AI Planning for Autonomy. Melbourne Uni.
+    - *ECON1203* Business and Economic Statistics (UNSW).
+    - *COSC2673*/COSC2793 Machine Learning (RMIT University)
+    - *COSC2626*/2640 Cloud Computing (RMIT University)
+    - *MATH1150* Discrete Math (RMIT University)
+  - Analyst Intern @ **Campus Analytics, University of Melbourne**.
+  - Data Engineering Senior Lead @ **Tokopedia**.
+  - Principal Data Engineer @ **Tokopedia**.
+  - Engineering Lead @ **Tokopedia**.
+  - Software Engineer @ **Tokopedia**.
 
-[jekyll-organization]: https://github.com/jekyll
+#### Licenses and Certificates
+  - Machine Learning. Coursera (Stanford Online).
+
+#### Leadership and Activities
+  - Volunteer @ **International Conference on Machine Learning (ICML)**.
+ - Participant @ **180 Degree Consulting x BCG Case Competition**.
+ - Consultant @ **Young Australian Problem Solver (YAPS)**.

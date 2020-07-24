@@ -21,3 +21,7 @@ I guess comparing distribution using pdf/pmf is tricky. Parametric pdfs/pmfs hav
 
 How does it (series of quantiles) form a straight line?
 Q-Q plot works by getting two quantile values. One is from the data and second is quantile given the data is sampled from the theoretical distribution. If the distribution is similar, both quantiles values will be very similar as well, hence producing a linear plot.
+
+QQPlot in R
+
+QQPlot in Python
