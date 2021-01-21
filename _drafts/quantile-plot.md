@@ -16,7 +16,8 @@ For me, data analysis is about taking a particular viewpoint and produce persona
 
 Q-Q plot is a tool to compare two distributions. Usually the distributions of interest are sample distribution and theoretical distribution. Theoretical distribution is the distribution of data that we believe. We want to check if data truly comes from the theoretical distribution. If data points form straight line, the theoretical distribution is most likely true, and vice versa.
 
-Why don't we just compare the pdf or pmf?
+Why don't we just compare the pdf or pmf? (I think the argument isn't solid for this paragraph)
+
 I guess comparing distribution using pdf/pmf is tricky. Parametric pdfs/pmfs have parameters that could influence their shape. For example, Gamma distribution has shape and scale parameters. Different value of both parameters could produce quite different distribution graph. So, comparing theoretical pdf/pmf and data plot is hard because it is sometimes unclear visually. Using Q-Q plot, we could just evaluate by looking graph forms straight line.
 
 How does it (series of quantiles) form a straight line?
